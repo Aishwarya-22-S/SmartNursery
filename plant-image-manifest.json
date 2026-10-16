@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Snake Plant",
+    "title": "File:Dracaena trifasciata plant, April 2023.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ADracaena_trifasciata_plant%2C_April_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dracaena_trifasciata_plant%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Grace789",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/snake-plant.jpg"
+  },
+  {
+    "name": "Money Plant",
+    "title": "File:Epipremnum aureum Money plant at Bhadrachalam.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AEpipremnum_aureum_Money_plant_at_Bhadrachalam.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Epipremnum_aureum_Money_plant_at_Bhadrachalam.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Adityamadhav83",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "asset_path": "public/plant-fallbacks/money-plant.jpg"
+  },
+  {
+    "name": "ZZ Plant",
+    "title": "File:Zz plant.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AZz_plant.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Zz_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Philsacor",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "asset_path": "public/plant-fallbacks/zz-plant.jpg"
+  },
+  {
+    "name": "Peace Lily",
+    "title": "File:Peace lily - 2.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3APeace_lily_-_2.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Peace_lily_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "W.carter",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/peace-lily.jpg"
+  },
+  {
+    "name": "Spider Plant",
+    "title": "File:Spider plant 02.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ASpider_plant_02.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Spider_plant_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Umasoyee",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/spider-plant.jpg"
+  },
+  {
+    "name": "Areca Palm",
+    "title": "File:Dypsis lutescens - areca palm.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ADypsis_lutescens_-_areca_palm.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Dypsis_lutescens_-_areca_palm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Apurv013",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "asset_path": "public/plant-fallbacks/areca-palm.jpg"
+  },
+  {
+    "name": "Rubber Plant",
+    "title": "File:Backlit ficus elastica leaf texture 2014 02.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ABacklit_ficus_elastica_leaf_texture_2014_02.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Backlit_ficus_elastica_leaf_texture_2014_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Julian Herzog (Website)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "asset_path": "public/plant-fallbacks/rubber-plant.jpg"
+  },
+  {
+    "name": "Monstera",
+    "title": "File:Monstera (climbing plant) in Costa Rica.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AMonstera_%28climbing_plant%29_in_Costa_Rica.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Monstera_%28climbing_plant%29_in_Costa_Rica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Gabriele Kothe-Heinrich",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "asset_path": "public/plant-fallbacks/monstera.jpg"
+  },
+  {
+    "name": "Lucky Bamboo",
+    "title": "File:Lucky Bamboo (93300).jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ALucky_Bamboo_%2893300%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Lucky_Bamboo_%2893300%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Medhi jyoti",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/lucky-bamboo.jpg"
+  },
+  {
+    "name": "Boston Fern",
+    "title": "File:Nephrolepis exaltata - Lyman Plant House, Smith College - DSC04286.JPG",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ANephrolepis_exaltata_-_Lyman_Plant_House%2C_Smith_College_-_DSC04286.JPG",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Nephrolepis_exaltata_-_Lyman_Plant_House%2C_Smith_College_-_DSC04286.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Daderot",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "asset_path": "public/plant-fallbacks/boston-fern.jpg"
+  },
+  {
+    "name": "Calathea",
+    "title": "File:Zebra Plant (Calathea Zebrina).jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AZebra_Plant_%28Calathea_Zebrina%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Zebra_Plant_%28Calathea_Zebrina%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Sharfina Annisa",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/calathea.jpg"
+  },
+  {
+    "name": "Dracaena",
+    "title": "File:Dracaena fragrans plant, April 2023.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ADracaena_fragrans_plant%2C_April_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Dracaena_fragrans_plant%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Grace789",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/dracaena.jpg"
+  },
+  {
+    "name": "Philodendron",
+    "title": "File:Philodendron Oxycardium Green Plant at Office Premises of The Samajh NGO.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3APhilodendron_Oxycardium_Green_Plant_at_Office_Premises_of_The_Samajh_NGO.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Philodendron_Oxycardium_Green_Plant_at_Office_Premises_of_The_Samajh_NGO.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "RJ Raawat",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/philodendron.jpg"
+  },
+  {
+    "name": "Aloe Vera",
+    "title": "File:Growing Aloe Vera Plant, May 2023.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AGrowing_Aloe_Vera_Plant%2C_May_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Growing_Aloe_Vera_Plant%2C_May_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Grace789",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/aloe-vera.jpg"
+  },
+  {
+    "name": "Jade Plant",
+    "title": "File:Among the branches of a potted jade plant.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AAmong_the_branches_of_a_potted_jade_plant.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Among_the_branches_of_a_potted_jade_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "W.carter",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "asset_path": "public/plant-fallbacks/jade-plant.jpg"
+  },
+  {
+    "name": "Haworthia",
+    "title": "File:Haworthia attenuata - Ab plant 01.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AHaworthia_attenuata_-_Ab_plant_01.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Haworthia_attenuata_-_Ab_plant_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Andrey Butko",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "asset_path": "public/plant-fallbacks/haworthia.jpg"
+  },
+  {
+    "name": "Echeveria",
+    "title": "File:Echeveria A7CR 02866-90 zsp.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AEcheveria_A7CR_02866-90_zsp.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Echeveria_A7CR_02866-90_zsp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "This Photo was taken by Timothy A. Gonsalves.  Feel free to use my photos, but please mention me as the author.  I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information.  Please contact me before commercial use.\n\n\n\nPlease do not upload an edited image here without consulting me.  I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/echeveria.jpg"
+  },
+  {
+    "name": "Zebra Cactus",
+    "title": "File:Zebra Plant (Haworthiopsis attenuata).jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AZebra_Plant_%28Haworthiopsis_attenuata%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Zebra_Plant_%28Haworthiopsis_attenuata%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Slyronit",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/zebra-cactus.jpg"
+  },
+  {
+    "name": "Barrel Cactus",
+    "title": "File:Barrel cactus flower plant cactaceae.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ABarrel_cactus_flower_plant_cactaceae.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Barrel_cactus_flower_plant_cactaceae.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Elise Smith, U.S. Fish and Wildlife Service",
+    "license": "Public domain",
+    "license_url": "",
+    "asset_path": "public/plant-fallbacks/barrel-cactus.jpg"
+  },
+  {
+    "name": "Croton",
+    "title": "File:Garden croton plant, April 2023.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AGarden_croton_plant%2C_April_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Garden_croton_plant%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Grace789",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/croton.jpg"
+  },
+  {
+    "name": "Bougainvillea",
+    "title": "File:Flower of Bougainvillea spectabilis plant.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AFlower_of_Bougainvillea_spectabilis_plant.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flower_of_Bougainvillea_spectabilis_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Snehit Jamere",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/bougainvillea.jpg"
+  },
+  {
+    "name": "Ixora",
+    "title": "File:Ixora coccinea flowers, Goa.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AIxora_coccinea_flowers%2C_Goa.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Ixora_coccinea_flowers%2C_Goa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "ArBay11",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "asset_path": "public/plant-fallbacks/ixora.jpg"
+  },
+  {
+    "name": "Gardenia",
+    "title": "File:Gardenia Jasminoides Flower.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AGardenia_Jasminoides_Flower.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Gardenia_Jasminoides_Flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "qwright10",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "asset_path": "public/plant-fallbacks/gardenia.jpg"
+  },
+  {
+    "name": "Plumeria",
+    "title": "File:Plumeria3.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3APlumeria3.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Plumeria3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Meshari Alawfi",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "asset_path": "public/plant-fallbacks/plumeria.jpg"
+  },
+  {
+    "name": "Lavender",
+    "title": "File:Vanessa cardui on Lavandula angustifolia-2459.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AVanessa_cardui_on_Lavandula_angustifolia-2459.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Vanessa_cardui_on_Lavandula_angustifolia-2459.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Isiwal",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/lavender.jpg"
+  },
+  {
+    "name": "Curry Leaf Plant",
+    "title": "File:Murray koenigii (curry leaf plant).JPG",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AMurray_koenigii_%28curry_leaf_plant%29.JPG",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Murray_koenigii_%28curry_leaf_plant%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Likhitha Lily",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "asset_path": "public/plant-fallbacks/curry-leaf-plant.jpg"
+  },
+  {
+    "name": "Tulsi Plant",
+    "title": "File:Tulsi plant*.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ATulsi_plant%2A.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Tulsi_plant%2A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Boopathi Raja123",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "asset_path": "public/plant-fallbacks/tulsi-plant.jpg"
+  },
+  {
+    "name": "Rose",
+    "title": "File:Rose plant in deogarh, Orissa, India.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ARose_plant_in_deogarh%2C_Orissa%2C_India.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Rose_plant_in_deogarh%2C_Orissa%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Pournnamasi sahu",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/rose.jpg"
+  },
+  {
+    "name": "Hibiscus",
+    "title": "File:Hibiscus Plant.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AHibiscus_Plant.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Hibiscus_Plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Pushkar Tripathi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/hibiscus.jpg"
+  },
+  {
+    "name": "Jasmine",
+    "title": "File:Melati Putih (Jasminum sambac), Bandung, Jawa Barat.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AMelati_Putih_%28Jasminum_sambac%29%2C_Bandung%2C_Jawa_Barat.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Melati_Putih_%28Jasminum_sambac%29%2C_Bandung%2C_Jawa_Barat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Jaka firman purnama",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/jasmine.jpg"
+  },
+  {
+    "name": "Marigold",
+    "title": "File:Marigold plant at Deogarh, Orissa, India.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AMarigold_plant_at_Deogarh%2C_Orissa%2C_India.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Marigold_plant_at_Deogarh%2C_Orissa%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Pournnamasi sahu",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/marigold.jpg"
+  },
+  {
+    "name": "Chrysanthemum",
+    "title": "File:菊花-瓊閣香霧 Chrysanthemum morifolium 'Jade Chamber Fragrant Smoke' -香港圓玄學院 Hong Kong Yuen Yuen Institute- (12010295324).jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3A%E8%8F%8A%E8%8A%B1-%E7%93%8A%E9%96%A3%E9%A6%99%E9%9C%A7_Chrysanthemum_morifolium_%27Jade_Chamber_Fragrant_Smoke%27_-%E9%A6%99%E6%B8%AF%E5%9C%93%E7%8E%84%E5%AD%B8%E9%99%A2_Hong_Kong_Yuen_Yuen_Institute-_%2812010295324%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/%E8%8F%8A%E8%8A%B1-%E7%93%8A%E9%96%A3%E9%A6%99%E9%9C%A7_Chrysanthemum_morifolium_%27Jade_Chamber_Fragrant_Smoke%27_-%E9%A6%99%E6%B8%AF%E5%9C%93%E7%8E%84%E5%AD%B8%E9%99%A2_Hong_Kong_Yuen_Yuen_Institute-_%2812010295324%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "阿橋 HQ",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "asset_path": "public/plant-fallbacks/chrysanthemum.jpg"
+  },
+  {
+    "name": "Dahlia",
+    "title": "File:(MHNT) Dahlia pinnata 'Happy Single Wink' - flower and foliage.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29_Dahlia_pinnata_%27Happy_Single_Wink%27_-_flower_and_foliage.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/%28MHNT%29_Dahlia_pinnata_%27Happy_Single_Wink%27_-_flower_and_foliage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/dahlia.jpg"
+  },
+  {
+    "name": "Sunflower",
+    "title": "File:Closer look of a sunflower head.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ACloser_look_of_a_sunflower_head.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Closer_look_of_a_sunflower_head.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Mothusi Sekhomba",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "asset_path": "public/plant-fallbacks/sunflower.jpg"
+  },
+  {
+    "name": "Petunia",
+    "title": "File:Petunia (28990138).jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3APetunia_%2828990138%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Petunia_%2828990138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "User:Leonardo Picklepants",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "asset_path": "public/plant-fallbacks/petunia.jpg"
+  },
+  {
+    "name": "Geranium",
+    "title": "File:Geranium phaeum, the mourning widow, on a plant stall in Churchland Lane - geograph.org.uk - 6834953.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AGeranium_phaeum%2C_the_mourning_widow%2C_on_a_plant_stall_in_Churchland_Lane_-_geograph.org.uk_-_6834953.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Geranium_phaeum%2C_the_mourning_widow%2C_on_a_plant_stall_in_Churchland_Lane_-_geograph.org.uk_-_6834953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Patrick Roper",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "asset_path": "public/plant-fallbacks/geranium.jpg"
+  },
+  {
+    "name": "Lotus",
+    "title": "File:Lotus flower nelumbo nucifera.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ALotus_flower_nelumbo_nucifera.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Lotus_flower_nelumbo_nucifera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Elise Smith, U.S. Fish and Wildlife Service",
+    "license": "Public domain",
+    "license_url": "",
+    "asset_path": "public/plant-fallbacks/lotus.jpg"
+  },
+  {
+    "name": "Mango",
+    "title": "File:Mangifera Indica plant, April 2023.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AMangifera_Indica_plant%2C_April_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Mangifera_Indica_plant%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Grace789",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/mango.jpg"
+  },
+  {
+    "name": "Guava",
+    "title": "File:Small Guava plant 02.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ASmall_Guava_plant_02.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Small_Guava_plant_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Sabina Bajracharya",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/guava.jpg"
+  },
+  {
+    "name": "Lemon",
+    "title": "File:Unripe fruits of Citrus limon.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AUnripe_fruits_of_Citrus_limon.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Unripe_fruits_of_Citrus_limon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Commonists",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/lemon.jpg"
+  },
+  {
+    "name": "Orange",
+    "title": "File:Sapindales - Citrus sinensis - 11.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ASapindales_-_Citrus_sinensis_-_11.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sapindales_-_Citrus_sinensis_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Emőke Dénes",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/orange.jpg"
+  },
+  {
+    "name": "Pomegranate",
+    "title": "File:Punica granatum fruit.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3APunica_granatum_fruit.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Punica_granatum_fruit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Prahlad balaji",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/pomegranate.jpg"
+  },
+  {
+    "name": "Papaya",
+    "title": "File:Papaya plant, April 2023.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3APapaya_plant%2C_April_2023.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Papaya_plant%2C_April_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Grace789",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/papaya.jpg"
+  },
+  {
+    "name": "Banana",
+    "title": "File:Ornamental Banana plant - geograph.org.uk - 1425863.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AOrnamental_Banana_plant_-_geograph.org.uk_-_1425863.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ornamental_Banana_plant_-_geograph.org.uk_-_1425863.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "PAUL FARMER",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "asset_path": "public/plant-fallbacks/banana.jpg"
+  },
+  {
+    "name": "Sapota",
+    "title": "File:Manilkara zapota 26zz.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AManilkara_zapota_26zz.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Manilkara_zapota_26zz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Photo by David J. Stang",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/sapota.jpg"
+  },
+  {
+    "name": "Custard Apple",
+    "title": "File:Custard apple at premium biofert ltd 05.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ACustard_apple_at_premium_biofert_ltd_05.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Custard_apple_at_premium_biofert_ltd_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Jude Ahiagble",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/custard-apple.jpg"
+  },
+  {
+    "name": "Fig",
+    "title": "File:Ficus carica leaves and fruits.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AFicus_carica_leaves_and_fruits.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ficus_carica_leaves_and_fruits.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Daniel Capilla",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/fig.jpg"
+  },
+  {
+    "name": "Dragon Fruit",
+    "title": "File:Dragon fruit plant.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ADragon_fruit_plant.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Dragon_fruit_plant.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Vimalananth V",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/dragon-fruit.jpg"
+  },
+  {
+    "name": "Grapefruit",
+    "title": "File:Trauttmansdorff gardens - Citrus x paradisi 01.JPG",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3ATrauttmansdorff_gardens_-_Citrus_x_paradisi_01.JPG",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Trauttmansdorff_gardens_-_Citrus_x_paradisi_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Syrio",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/grapefruit.jpg"
+  },
+  {
+    "name": "Bamboo Palm",
+    "title": "File:Chamaedorea seifrizii kz01.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AChamaedorea_seifrizii_kz01.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Chamaedorea_seifrizii_kz01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Krzysztof Ziarnek, Kenraiz",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/bamboo-palm.jpg"
+  },
+  {
+    "name": "English Ivy",
+    "title": "File:Ivy near Helen's Bay - geograph.org.uk - 2322715.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AIvy_near_Helen%27s_Bay_-_geograph.org.uk_-_2322715.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Ivy_near_Helen%27s_Bay_-_geograph.org.uk_-_2322715.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Albert Bridge",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "asset_path": "public/plant-fallbacks/english-ivy.jpg"
+  },
+  {
+    "name": "Golden Pothos",
+    "title": "File:Golden Pothos (60652).jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AGolden_Pothos_%2860652%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Golden_Pothos_%2860652%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Prabhavathi anaka",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/golden-pothos.jpg"
+  },
+  {
+    "name": "Weeping Fig",
+    "title": "File:A rectangular planter containing an Areca palm (Dypsis lutescens), variegated weeping fig (Ficus benjamina 'Variegata'), and garden croton (Codiaeum variegatum).jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AA_rectangular_planter_containing_an_Areca_palm_%28Dypsis_lutescens%29%2C_variegated_weeping_fig_%28Ficus_benjamina_%27Variegata%27%29%2C_and_garden_croton_%28Codiaeum_variegatum%29.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/A_rectangular_planter_containing_an_Areca_palm_%28Dypsis_lutescens%29%2C_variegated_weeping_fig_%28Ficus_benjamina_%27Variegata%27%29%2C_and_garden_croton_%28Codiaeum_variegatum%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Clintacc",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "asset_path": "public/plant-fallbacks/weeping-fig.jpg"
+  },
+  {
+    "name": "Chinese Evergreen",
+    "title": "File:Aglaonema commutatum.jpg",
+    "file_page": "https://commons.wikimedia.org/wiki/File%3AAglaonema_commutatum.jpg",
+    "file_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Aglaonema_commutatum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "artist": "Afimaame",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "asset_path": "public/plant-fallbacks/chinese-evergreen.jpg"
+  }
+]
